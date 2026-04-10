@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/doggk440044/ota/releases/download/2026040301/tokay-2026040301-590effb-rootless.zip",
-    "location_csig": "https://github.com/doggk440044/ota/releases/download/2026040301/tokay-2026040301-590effb-rootless.zip.csig"
+    "location_ota": "https://github.com/doggk440044/ota/releases/download/2026040801/tokay-2026040801-590effb-rootless.zip",
+    "location_csig": "https://github.com/doggk440044/ota/releases/download/2026040801/tokay-2026040801-590effb-rootless.zip.csig"
   }
 }
